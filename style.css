@@ -1,0 +1,10 @@
+/* Хар background болон canvas-д бүрэн дэлгэц */
+body {
+  margin: 0;
+  background-color: black;
+  overflow: hidden;
+}
+
+canvas {
+  display: block;
+}
